@@ -19,8 +19,6 @@ ESP8266 connect to wifi and decode or config display by OLED SD1306 or SH1106 an
 
 ## TOOL & Firmware
 
-Tool Flash ESP8266 [here](Firmware/ESP8266Flasher.rar)
-
-Firmware V0.8 for OLED SD1306 0.96" [here](Firmware/ESP_IGate_SD1306.bin)
-
-Firmware V0.8 for OLED SH1106 1.3" [here](Firmware/ESP_IGate_SH1106.bin)
+- Tool Flash ESP8266 [here](Firmware/ESP8266Flasher.rar)
+- Firmware V0.8 for OLED SD1306 0.96" [here](Firmware/ESP_IGate_SD1306.bin)
+- Firmware V0.8 for OLED SH1106 1.3" [here](Firmware/ESP_IGate_SH1106.bin)
