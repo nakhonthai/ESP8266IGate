@@ -27,7 +27,7 @@ ESP8266 connect to wifi and decode or config display by OLED SD1306 or SH1106 an
 
 ![screen_tracker](ScreenShort/tracker.png)
 
-![screen_config](ScreenShort/configstgation.png)
+![screen_config](ScreenShort/configstation.png)
 
 ![screen_laststation](ScreenShort/laststation.png)
 
