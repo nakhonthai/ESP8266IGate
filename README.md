@@ -32,8 +32,7 @@ ESP8266 connect to wifi and decode or config display by OLED SD1306 or SH1106 an
 ![screen_gps](ScreenShort/gps.png)
 
 ## YouTube Channel HS5TQA
-[![Review Display](https://i.ytimg.com/an_webp/ixsnkZisZxA/mqdefault_6s.webp?du=3000&sqp=COC_wZEG&rs=AOn4CLCJJexiaCUm6WbQy48i5G4WKwexBQ)](https://www.youtube.com/watch?v=ixsnkZisZxA&t=399s "Review Display")
-
+[![Tracker WiFi Config](https://i.ytimg.com/an_webp/NZghU2nAoFs/mqdefault_6s.webp?du=3000&sqp=CPWkwZEG&rs=AOn4CLC1s0jDO4CqiDyEiHtKSvkPtRkB8g)](https://www.youtube.com/watch?v=NZghU2nAoFs&t=728s "Tracker WiFi Config")
 ## TOOL & Firmware
 
 - Tool Flash ESP8266 [here](Firmware/ESP8266Flasher.rar)
