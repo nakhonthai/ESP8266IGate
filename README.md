@@ -17,6 +17,22 @@ ESP8266 connect to wifi and decode or config display by OLED SD1306 or SH1106 an
 
 ## ESP8266IGate Circuit
 
+![Tracker WiFi](Image/ESP8266_IGATE_noTNC.png)
+
+![NodeMCU](Image/modemcu.png)
+
+![HT_Inteface](Image/ESP8266_IGATE_TNC_MIC.png)
+
+## ESP8266IGate Screen Short
+
+![screen_tracker](ScreenShort/tracker.png)
+
+![screen_config](ScreenShort/configstgation.png)
+
+![screen_laststation](ScreenShort/laststation.png)
+
+![screen_gps](ScreenShort/gps.png)
+
 ## TOOL & Firmware
 
 - Tool Flash ESP8266 [here](Firmware/ESP8266Flasher.rar)
