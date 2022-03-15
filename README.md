@@ -1,5 +1,6 @@
 # ESP8266IGate Project
-ESP826IGate is a Internet Gateway + Tracker + Display that is implemented for Espressif ESP82666 processor.
+ESP826IGate is a Internet Gateway + Tracker + Display that is implemented for Espressif ESP8266 processor.
+
 ESP8266 connect to wifi and decode or config display by OLED SD1306 or SH1106 and control by rotary swicth.
 
 ## Feature
